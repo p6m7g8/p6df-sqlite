@@ -26,9 +26,9 @@ p6df::modules::sqlite::external::brew() {
   brew install sqlite-utils
   brew install sqliteodbc
 
-  brew cask install db-browser-for-sqlite
-  brew cask install sqlitemanager
-  brew cask install sqlitestudio
+  brew install --cask db-browser-for-sqlite
+  brew install --cask sqlitemanager
+  brew install --cask sqlitestudio
 }
 
 ######################################################################
