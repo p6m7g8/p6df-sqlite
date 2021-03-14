@@ -38,9 +38,11 @@
 
 - [Change Log](CHANGELOG.md)
 
-### Usage
+## Usage
 
-#### init.zsh:
+### p6df-sqlite:
+
+#### p6df-sqlite/init.zsh:
 
 - p6df::modules::sqlite::deps()
 - p6df::modules::sqlite::external::brew()
