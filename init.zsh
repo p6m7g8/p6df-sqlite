@@ -30,25 +30,3 @@ p6df::modules::sqlite::external::brew() {
   brew install --cask sqlitemanager
   brew install --cask sqlitestudio
 }
-
-######################################################################
-#<
-#
-# Function: p6df::modules::sqlite::home::symlink()
-#
-#>
-######################################################################
-p6df::modules::sqlite::home::symlink() {
-
-}
-
-######################################################################
-#<
-#
-# Function: p6df::modules::sqlite::init()
-#
-#>
-######################################################################
-p6df::modules::sqlite::init() {
-
-}
