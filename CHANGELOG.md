@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.1](https://github.com/p6m7g8/p6df-sqlite/compare/v2.1.0...v2.1.1) (2021-04-04)
+
+
+* **link:** remove rendundant symlinks; echo for now ([#13](https://github.com/p6m7g8/p6df-sqlite/issues/13)) ([f9e4485](https://github.com/p6m7g8/p6df-sqlite/commit/f9e4485de0382dc84b1623250d57a764650c8f9f))
+* **README:** updates generator ([#12](https://github.com/p6m7g8/p6df-sqlite/issues/12)) ([c071686](https://github.com/p6m7g8/p6df-sqlite/commit/c071686f9d53a3cad269737928271a783a9a0c2d))
+* Coc -> .github ([ddcbc2f](https://github.com/p6m7g8/p6df-sqlite/commit/ddcbc2fc0c62d32ebbb546c35e62490494b33d81))
+
 ## [2.1.0](https://github.com/p6m7g8/p6df-sqlite/compare/v2.0.0...v2.1.0) (2020-12-06)
 
 
